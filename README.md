@@ -16,7 +16,7 @@ accepts HTTP requests with specific parameters and produces an audio file in res
 **Requirements**
 ---------------
 
-* **Java 21**: The Spring Boot app is built using Java 11.
+* **Java 21**: The Spring Boot app is built using Java 21.
 * **Spring Boot 3.4.1**: The Spring Boot app uses version 3.4.1 of the Spring Boot framework.
 * **Flask App**: The Flask app is a separate project that generates audio from request parameters.
 
