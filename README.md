@@ -10,10 +10,8 @@ accepts HTTP requests with specific parameters and produces an audio file in res
 ------------
 
 * **Audio Generation**: The Flask app generates an audio file based on the provided request parameters.
-* **Spring Boot Integration**: This Spring Boot app integrates with the Flask app, allowing users to send HTTP requests
-  with parameters and receive an audio file in response.
-* **RESTful API**: The Spring Boot app exposes a RESTful API for users to interact with the Flask app.
-
+* **Spring Boot Integration**: This Spring Boot service that integrates with the Flask app, allowing dev users to send HTTP requests
+  with parameters and receive an audio file in response 
 **Requirements**
 ---------------
 
